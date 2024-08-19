@@ -1,0 +1,6 @@
+site_name: HSI Akademi
+theme:
+  name: material
+plugins:
+markdown_extensions:
+  - attr_list
